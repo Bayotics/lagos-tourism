@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/lagos-tourism/static/css/main.3e63d3e0.css",
+    "main.js": "/lagos-tourism/static/js/main.7e65af8c.js",
+    "static/js/787.c9e38284.chunk.js": "/lagos-tourism/static/js/787.c9e38284.chunk.js",
+    "static/media/PngItem_1692324.png": "/lagos-tourism/static/media/PngItem_1692324.4d7af907df37d5ffe84a.png",
+    "static/media/danfo.jpg": "/lagos-tourism/static/media/danfo.a16d4cd7e975f14c2733.jpg",
+    "static/media/crew-2.png": "/lagos-tourism/static/media/crew-2.4f557d654a9a5155ba56.png",
+    "static/media/mainland.jpg": "/lagos-tourism/static/media/mainland.95e03b51d994949f2dca.jpg",
+    "static/media/crew-1.png": "/lagos-tourism/static/media/crew-1.4006f657a9907a448679.png",
+    "static/media/destination-background.jpg": "/lagos-tourism/static/media/destination-background.c92736c39bdc732a3b4c.jpg",
+    "static/media/crew-3.png": "/lagos-tourism/static/media/crew-3.5b12bc2ff631248a6da7.png",
+    "static/media/shoprite.jpg": "/lagos-tourism/static/media/shoprite.8f7ac59553f6f2e8eb98.jpg",
+    "static/media/ikorodu.jpg": "/lagos-tourism/static/media/ikorodu.b830258b77764d101d58.jpg",
+    "static/media/crew-4.png": "/lagos-tourism/static/media/crew-4.a989a2a3f08f2c3e0364.png",
+    "static/media/wallpaper8.jpg": "/lagos-tourism/static/media/wallpaper8.c0db09389c896d1ab1ad.jpg",
+    "static/media/Theatre.jpg": "/lagos-tourism/static/media/Theatre.03979fe0796f0dad2506.jpg",
+    "static/media/Nike.jpg": "/lagos-tourism/static/media/Nike.5f7be08bdffc45a035dc.jpg",
+    "index.html": "/lagos-tourism/index.html",
+    "main.3e63d3e0.css.map": "/lagos-tourism/static/css/main.3e63d3e0.css.map",
+    "main.7e65af8c.js.map": "/lagos-tourism/static/js/main.7e65af8c.js.map",
+    "787.c9e38284.chunk.js.map": "/lagos-tourism/static/js/787.c9e38284.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e63d3e0.css",
+    "static/js/main.7e65af8c.js"
+  ]
+}
